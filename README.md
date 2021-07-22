@@ -1,5 +1,5 @@
 <h1 align="center">>_Username : Prodicate</h1>
-<h3 align="center">Computer science Student in Montpellier</h3>
+<h3 align="center">Computer science Student</h3>
 
 - 🔭 I’m currently working on **The Cube**
 
