@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Cube**
 
-- 🌱 I’m currently learning **Network x Eeverse Engineering**
+- 🌱 I’m currently learning **Network x Reverse Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
